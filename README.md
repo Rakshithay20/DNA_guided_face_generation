@@ -1,0 +1,1 @@
+Built a Conditional GAN in PyTorch to generate realistic human faces from trait vectors, using the LFW dataset of 13K+ images. Applied preprocessing, augmentation, and GPU optimization to improve model stability, enabling high-quality face synthesis with applications in biometrics, identity simulation, and creative AI research.
